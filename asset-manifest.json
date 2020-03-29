@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vidly/static/css/main.5f361e03.chunk.css",
+    "main.js": "/vidly/static/js/main.ccea5fe1.chunk.js",
+    "main.js.map": "/vidly/static/js/main.ccea5fe1.chunk.js.map",
+    "runtime-main.js": "/vidly/static/js/runtime-main.e3c09976.js",
+    "runtime-main.js.map": "/vidly/static/js/runtime-main.e3c09976.js.map",
+    "static/js/2.64b84e62.chunk.js": "/vidly/static/js/2.64b84e62.chunk.js",
+    "static/js/2.64b84e62.chunk.js.map": "/vidly/static/js/2.64b84e62.chunk.js.map",
+    "index.html": "/vidly/index.html",
+    "precache-manifest.55aff52cca90563fd4e1f7e1b58b8156.js": "/vidly/precache-manifest.55aff52cca90563fd4e1f7e1b58b8156.js",
+    "service-worker.js": "/vidly/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/vidly/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.64b84e62.chunk.js.LICENSE.txt": "/vidly/static/js/2.64b84e62.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/vidly/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3c09976.js",
+    "static/js/2.64b84e62.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ccea5fe1.chunk.js"
+  ]
+}
